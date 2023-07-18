@@ -6,7 +6,7 @@
   * [\[Test 1\] Exploring the Snyk Web UI](getting-started/getting-started-with-the-snyk-web-ui.md)
   * [Quickstart](getting-started/quickstart/README.md)
     * [Create a Snyk account](getting-started/quickstart/create-a-snyk-account/README.md)
-      * [Logging in to an existing account](getting-started/quickstart/create-a-snyk-account/logging-in-to-an-existing-account.md)
+      * [\[Test 2\] Logging in to an existing account](getting-started/quickstart/create-a-snyk-account/logging-in-to-an-existing-account.md)
     * [Set up an integration](getting-started/quickstart/set-up-an-integration.md)
     * [Import a Project](getting-started/quickstart/import-a-project.md)
     * [View Snyk scan results](getting-started/quickstart/view-snyk-scan-results.md)
