@@ -1,8 +1,14 @@
-# Exploring the Snyk Web UI
+---
+description: '[Test 1]'
+---
+
+# \[Test 1] Exploring the Snyk Web UI
 
 {% hint style="success" %}
 If you have not done so already, you should [create an account](quickstart/create-a-snyk-account/).
 {% endhint %}
+
+\[Test 1]
 
 ## Introduction
 

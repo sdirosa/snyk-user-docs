@@ -3,7 +3,7 @@
 * [User Docs](README.md)
 * [Getting started](getting-started/README.md)
   * [Introducing Snyk](getting-started/introducing-snyk.md)
-  * [Exploring the Snyk Web UI](getting-started/getting-started-with-the-snyk-web-ui.md)
+  * [\[Test 1\] Exploring the Snyk Web UI](getting-started/getting-started-with-the-snyk-web-ui.md)
   * [Quickstart](getting-started/quickstart/README.md)
     * [Create a Snyk account](getting-started/quickstart/create-a-snyk-account/README.md)
       * [Logging in to an existing account](getting-started/quickstart/create-a-snyk-account/logging-in-to-an-existing-account.md)
@@ -253,7 +253,6 @@
       * [Snyk for Elixir](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-elixir.md)
       * [Snyk for Go](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-golang.md)
       * [Snyk for Java and Kotlin](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-java-and-kotlin.md)
-      *
       * [Snyk for PHP](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-php.md)
       * [Snyk for Python](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-python.md)
       * [Snyk for Ruby](scan-application-code/snyk-open-source/snyk-open-source-supported-languages-and-package-managers/snyk-for-ruby.md)
